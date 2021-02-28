@@ -16,3 +16,6 @@ opBasic = function(a,b){
 
 opBasic(6,2)
 
+(3+2i)/2
+(3+2i)/(2+2i)
+
